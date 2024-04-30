@@ -1,3 +1,3 @@
 - change logo
 - upload `Download Company Profile`
-
+- remove the TODOs in the code
